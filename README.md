@@ -12,8 +12,8 @@ A Proportional Integral Derivative (PID) controller is a closed loop controller 
 ## Project Build Instructions
 ### Ubuntu
 ``` bash
-git clone
-cd
+git clone https://github.com/sumukhpatil/PID-Controller.git
+cd PID-Controller
 mkdir build && cd build
 cmake ..
 make
